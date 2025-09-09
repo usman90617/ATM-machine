@@ -59,5 +59,6 @@ function cashDeposit() {
 }
 
 function cancel() {
-    window.location.href = "mainpage.html";
+    window.location.href = "index.html";
 }
+
